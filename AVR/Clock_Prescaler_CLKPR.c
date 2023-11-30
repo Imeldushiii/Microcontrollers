@@ -1,4 +1,4 @@
-
+//na Atmedze 168
 #define F_CPU 1000000UL //Szybkosc CPU dla biblioteki delay.h
 #include <avr/io.h>
 #include <util/delay.h>
